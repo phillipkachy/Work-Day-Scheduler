@@ -1,3 +1,5 @@
+Work Day Scheduler:
+
 User Story:
 
 AS AN employee with a busy schedule
@@ -19,3 +21,7 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist# Work-Day-Scheduler
+
+Working Application:
+
+Website allows user to save to do things based on the hours 9am through 5pm of the day. The hour of the day are colored coded to separate past hours, present hour and future hours. 
